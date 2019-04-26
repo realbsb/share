@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Хронология Вселенной Marvel</title>
+	<trackList>
+		<track>
+			<location>smb://192.168.0.200/Cinema/Стражи Галактики.Marvel/1. Стражи Галактики.Guardians of the Galaxy.2014.BDRip.mkv</location>
+			<duration>63</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=3434.000</vlc:option>
+				<vlc:option>stop-time=3497.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Thor.Marvel/2. Thor 2.2013.BDRip-AVC.mkv</location>
+			<duration>230</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=230.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Thor.Marvel/1. Thor.2011.BDRip.avi</location>
+			<duration>232</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=223.000</vlc:option>
+				<vlc:option>stop-time=455.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Captain America.Marvel/1. Первый мститель.Captain America. The First Avenger.2011.HDRip.avi</location>
+			<duration>6402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=223.000</vlc:option>
+				<vlc:option>stop-time=6625.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Стражи Галактики.Marvel/2. Стражи Галактики. Часть 2.Guardians of the Galaxy. Vol 2.2017.WEB-DLRip.mkv</location>
+			<duration>170</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=170.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Стражи Галактики.Marvel/1. Стражи Галактики.Guardians of the Galaxy.2014.BDRip.mkv</location>
+			<duration>220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=220.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Мстители.Marvel/3. Мстители. Война бесконечности.Avengers. Infinity War.2018.HDRip.avi</location>
+			<duration>124</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=2544.000</vlc:option>
+				<vlc:option>stop-time=2668.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Человек-муравей.Marvel/1. Человек-муравей.Ant-Man.2015.WEB-DLRip.mkv</location>
+			<duration>130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=130.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Captain America.Marvel/3. Первый мститель. Противостояние.Captain America. Civil War.2016.BDRip.mkv</location>
+			<duration>160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=160.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Вселенная.Marvel/Captain Marvel.2019.HDRip.mkv</location>
+			<duration>0</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=3989.000</vlc:option>
+				<vlc:option>stop-time=4286.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Вселенная.Marvel/Чёрная пантера.Black Panther.2018.HDRip.avi</location>
+			<duration>382</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=382.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Вселенная.Marvel/Captain Marvel.2019.HDRip.mkv</location>
+			<duration>0</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=3989.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Вселенная.Marvel/Captain Marvel.2019.HDRip.mkv</location>
+			<duration>0</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=4286.000</vlc:option>
+				<vlc:option>stop-time=7077.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Железный человек.Marvel/3. Железный человек 3.Iron Man Three.2013.BDRip-AVC.mkv</location>
+			<duration>290</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=290.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Вселенная.Marvel/Невероятный Халк.The Incredible Hulk.2008.BDRip.avi</location>
+			<duration>134</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=51.000</vlc:option>
+				<vlc:option>stop-time=185.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Железный человек.Marvel/1. Железный человек.Iron man.2008.BDRip.avi</location>
+			<duration>724</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=260.000</vlc:option>
+				<vlc:option>stop-time=984.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Железный человек.Marvel/1. Железный человек.Iron man.2008.BDRip.avi</location>
+			<duration>260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=260.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Железный человек.Marvel/1. Железный человек.Iron man.2008.BDRip.avi</location>
+			<duration>6516</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=984.000</vlc:option>
+				<vlc:option>stop-time=7500.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Железный человек.Marvel/2. Железный человек 2.Iron man 2.2010.BDRip.avi</location>
+			<duration>304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=304.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Вселенная.Marvel/Невероятный Халк.The Incredible Hulk.2008.BDRip.avi</location>
+			<duration>165</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=180.000</vlc:option>
+				<vlc:option>stop-time=350.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Железный человек.Marvel/2. Железный человек 2.Iron man 2.2010.BDRip.avi</location>
+			<duration>4700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>    
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=304.000</vlc:option>
+				<vlc:option>stop-time=5004.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Thor.Marvel/1. Thor.2011.BDRip.avi</location>
+			<duration>1610</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=200.000</vlc:option>
+				<vlc:option>stop-time=1810.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Thor.Marvel/1. Thor.2011.BDRip.avi</location>
+			<duration>200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=200.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Железный человек.Marvel/2. Железный человек 2.Iron man 2.2010.BDRip.avi</location>
+			<duration>2475</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=5004.000</vlc:option>
+				<vlc:option>stop-time=7479.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Thor.Marvel/1. Thor.2011.BDRip.avi</location>
+			<duration>5080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=1810.000</vlc:option>
+				<vlc:option>stop-time=6890.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Captain America.Marvel/1. Первый мститель.Captain America. The First Avenger.2011.HDRip.avi</location>
+			<duration>222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=222.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Captain America.Marvel/1. Первый мститель.Captain America. The First Avenger.2011.HDRip.avi</location>
+			<duration>815</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=6625.000</vlc:option>
+				<vlc:option>stop-time=7440.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Мстители.Marvel/1. Мстители.The Avengers.2012.BDRip.mkv</location>
+			<duration>8520</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Мстители.Marvel/3. Мстители. Война бесконечности.Avengers. Infinity War.2018.HDRip.avi"</location>
+			<duration>8940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Spider-man.Marvel/3. Человек-паук. Вдали от дома..</location>
+			<duration>0</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=328.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Железный человек.Marvel/3. Железный человек 3.Iron Man Three.2013.BDRip-AVC.mkv</location>
+			<duration>7542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=290.000</vlc:option>
+				<vlc:option>stop-time=7832.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Thor.Marvel/2. Thor 2.2013.BDRip-AVC.mkv</location>
+			<duration>6493</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=230.000</vlc:option>
+				<vlc:option>stop-time=6723.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Captain America.Marvel/2. Первый мститель. Другая война.Captain America. The Winter Soldier.2014.HDRip.avi</location>
+			<duration>8154</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=8154.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Стражи Галактики.Marvel/1. Стражи Галактики.Guardians of the Galaxy.2014.BDRip.mkv</location>
+			<duration>7330</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=170.000</vlc:option>
+				<vlc:option>stop-time=7500.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Captain America.Marvel/1. Первый мститель.Captain America. The First Avenger.2011.HDRip.avi</location>
+			<duration>8110</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=170.000</vlc:option>
+				<vlc:option>stop-time=8280.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Мстители.Marvel/2. Мстители. Эра Альтрона.Avengers. Age of Ultron.2015.WEB-DLRip.mkv"</location>
+			<duration>8460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Человек-муравей.Marvel/1. Человек-муравей.Ant-Man.2015.WEB-DLRip.mkv</location>
+			<duration>6324</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=130.000</vlc:option>
+				<vlc:option>stop-time=6454.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Captain America.Marvel/3. Первый мститель. Противостояние.Captain America. Civil War.2016.BDRip.mkv</location>
+			<duration>4348</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=160.000</vlc:option>
+				<vlc:option>stop-time=4508.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Человек-муравей.Marvel/1. Человек-муравей.Ant-Man.2015.WEB-DLRip.mkv</location>
+			<duration>572</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=6454.000</vlc:option>
+				<vlc:option>stop-time=7026.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Captain America.Marvel/3. Первый мститель. Противостояние.Captain America. Civil War.2016.BDRip.mkv</location>
+			<duration>864</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=4508.000</vlc:option>
+				<vlc:option>stop-time=5372.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Spider-man.Marvel/3. Человек-паук. Возвращение домой.Spider-Man. Homecoming.2017.BDRip.mkv</location>
+			<duration>119</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=334.000</vlc:option>
+				<vlc:option>stop-time=453.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Captain America.Marvel/3. Первый мститель. Противостояние.Captain America. Civil War.2016.BDRip.mkv</location>
+			<duration>967</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=5372.000</vlc:option>
+				<vlc:option>stop-time=6339.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Captain America.Marvel/3. Первый мститель. Противостояние.Captain America. Civil War.2016.BDRip.mkv</location>
+			<duration>2541</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=6339.000</vlc:option>
+				<vlc:option>stop-time=8880.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Spider-man.Marvel/3. Человек-паук. Возвращение домой.Spider-Man. Homecoming.2017.BDRip.mkv</location>
+			<duration>7527</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=453.000</vlc:option>
+				<vlc:option>stop-time=7980.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Вселенная.Marvel/Доктор Стрэндж.Doctor Strange.2016.HDRip.avi</location>
+			<duration>6399</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=6399.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Thor.Marvel/3. Thor. Ragnarok.2017.HDRip.avi</location>
+			<duration>996</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=996.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Вселенная.Marvel/Доктор Стрэндж.Doctor Strange.2016.HDRip.avi</location>
+			<duration>499</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=6399.000</vlc:option>
+				<vlc:option>stop-time=6898.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Thor.Marvel/3. Thor. Ragnarok.2017.HDRip.avi</location>
+			<duration>35</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=996.000</vlc:option>
+				<vlc:option>stop-time=1031.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Thor.Marvel/3. Thor. Ragnarok.2017.HDRip.avi</location>
+			<duration>6333</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=1031.000</vlc:option>
+				<vlc:option>stop-time=7364.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Вселенная.Marvel/Чёрная пантера.Black Panther.2018.HDRip.avi</location>
+			<duration>7718</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=382.000</vlc:option>
+				<vlc:option>stop-time=8100.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Человек-муравей.Marvel/2. Человек-муравей и Оса.Ant-Man and the Wasp.2018.HDRip.avi</location>
+			<duration>6540</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=6540.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Thor.Marvel/3. Thor. Ragnarok.2017.HDRip.avi</location>
+			<duration>480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=3764.000</vlc:option>
+				<vlc:option>stop-time=4244.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Мстители.Marvel/3. Мстители. Война бесконечности.Avengers. Infinity War.2018.HDRip.avi</location>
+			<duration>2544</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=0.000</vlc:option>
+				<vlc:option>stop-time=2544.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Мстители.Marvel/3. Мстители. Война бесконечности.Avengers. Infinity War.2018.HDRip.avi</location>
+			<duration>6302</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=2668.000</vlc:option>
+				<vlc:option>stop-time=8970.000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>ftps://anonymous:Rt457x1E34@rkn.gov.ru/Cinema/Человек-муравей.Marvel/2. Человек-муравей и Оса.Ant-Man and the Wasp.2018.HDRip.avi</location>
+			<duration>545</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+				<vlc:option>start-time=6540.000</vlc:option>
+				<vlc:option>stop-time=7085.000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="0"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+	</extension>
+</playlist>
